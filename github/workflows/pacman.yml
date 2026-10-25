@@ -1,0 +1,44 @@
+name: Generate Pac-Man Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"       # otomatis setiap hari pukul 00:00 UTC
+  workflow_dispatch:          # tombol "Run workflow" untuk menjalankan manual
+  push:
+    branches:
+      - main                  # ganti ke "master" jika branch default repo kamu master
+
+permissions:
+  contents: write             # dibutuhkan untuk push SVG ke branch "output-pacman"
+
+concurrency:
+  group: pacman
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Generate Pac-Man SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      # 1) Buat SVG Pac-Man (otomatis menghasilkan versi terang + gelap):
+      #    dist/pacman-contribution-graph.svg
+      #    dist/pacman-contribution-graph-dark.svg
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman"
+          hide_month_labels: "false"
+
+      # 2) Publikasikan ke branch "output-pacman"
+      #    (dipisah dari branch "output" milik snake agar file tidak saling menimpa)
+      - name: Push SVG ke branch output-pacman
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-pacman
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
