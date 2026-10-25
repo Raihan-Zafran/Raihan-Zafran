@@ -197,42 +197,6 @@ class Raihan:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:00F5FF&height=3&section=header" width="100%" alt="divider" />
 
-<!-- ═══════════════ 10. FEATURED PROJECTS (PIN CARDS) ═══════════════ -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<!-- GANTI: ubah GANTI-NAMA-REPO-1..4 dengan nama repo asli kamu, lalu edit deskripsi di bawah tiap kartu -->
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Raihan-Zafran/GANTI-NAMA-REPO-1">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raihan-Zafran&repo=GANTI-NAMA-REPO-1&show_owner=false&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&icon_color=A855F7&border_color=2D1B4E&border_radius=12" alt="Proyek 1" />
-      </a>
-      <br /><sub>📝 GANTI: deskripsi singkat proyek 1 · Python · Pandas</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Raihan-Zafran/GANTI-NAMA-REPO-2">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raihan-Zafran&repo=GANTI-NAMA-REPO-2&show_owner=false&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&icon_color=A855F7&border_color=2D1B4E&border_radius=12" alt="Proyek 2" />
-      </a>
-      <br /><sub>📝 GANTI: deskripsi singkat proyek 2 · TensorFlow · LLM</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Raihan-Zafran/GANTI-NAMA-REPO-3">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raihan-Zafran&repo=GANTI-NAMA-REPO-3&show_owner=false&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&icon_color=A855F7&border_color=2D1B4E&border_radius=12" alt="Proyek 3" />
-      </a>
-      <br /><sub>📝 GANTI: deskripsi singkat proyek 3 · SQL · Power BI</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Raihan-Zafran/GANTI-NAMA-REPO-4">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Raihan-Zafran&repo=GANTI-NAMA-REPO-4&show_owner=false&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&icon_color=A855F7&border_color=2D1B4E&border_radius=12" alt="Proyek 4" />
-      </a>
-      <br /><sub>📝 GANTI: deskripsi singkat proyek 4 · React · JavaScript</sub>
-    </td>
-  </tr>
-</table>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
 
