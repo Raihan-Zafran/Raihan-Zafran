@@ -11,13 +11,13 @@
 
 <!-- ═════════════════════════ 1. HEADER ═════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:A855F7&height=250&section=header&text=Raihan%20Zafran%20Syaddat&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20AI%20Explorer&descSize=18&descAlignY=60" width="100%" alt="Header Raihan Zafran Syaddat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:A855F7&height=250&section=header&text=Raihan%20Zafran%20Syaddat&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Vibe%20Coder%20%C2%B7%20AI%20Agent%20Builder&descSize=18&descAlignY=60" width="100%" alt="Header Raihan Zafran Syaddat" />
 </div>
 
 <!-- ═════════════════════ 2. TYPING SVG + WAVE ═════════════════════ -->
 <div align="center">
   <a href="https://github.com/Raihan-Zafran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Software+Engineer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;AI+Explorer+%F0%9F%A4%96;Eksplorasi+LLM+%26+Machine+Learning+%F0%9F%A7%A0;Mengubah+data+jadi+insight+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Backend+Developer+%E2%9A%99%EF%B8%8F;Vibe+Coding+with+AI+%F0%9F%8E%A7;AI+Agent+Builder+%F0%9F%A4%96;Membangun+API+yang+rapi+%26+scalable+%F0%9F%9A%80;Ide+jadi+produk+lebih+cepat+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -42,20 +42,20 @@
 <!-- ═════════════════════════ 3. ABOUT ME ═════════════════════════ -->
 <h2 align="center">🙋‍♂️ Tentang Saya</h2>
 
-Halo! Saya **Raihan Zafran Syaddat** 👋 — seorang **Software Engineer**, **Data Analyst**, dan **AI Explorer**. Saya senang mengubah data mentah menjadi insight yang berguna, dan ide menjadi produk yang benar-benar bisa dipakai. 🚀
+Halo! Saya **Raihan Zafran Syaddat** 👋 — seorang **Backend Developer** yang suka **vibe coding** dan membangun **AI Agent**. Saya senang mengubah ide menjadi produk yang benar-benar bisa dipakai, dengan fondasi backend yang rapi dan bantuan AI. 🚀
 
-- 🔭 Sedang fokus eksplorasi **AI/LLM**, **machine learning**, dan **data analytics**
-- 🛠️ Suka membangun dashboard, pipeline data, dan aplikasi web yang bermanfaat
-- 🌱 Sedang mendalami **RAG**, **AI agents**, dan **prompt engineering**
-- 🤝 Terbuka untuk kolaborasi proyek, diskusi seputar data & AI, atau sekadar ngopi virtual ☕
-- 💬 Tanya saya soal: **Python, SQL, visualisasi data, dan dunia AI**
+- ⚙️ Fokus sebagai **Backend Developer**: REST API, database, autentikasi, dan arsitektur yang scalable
+- 🎧 Penggemar **Vibe Coding**: membangun bareng AI dengan prompt, lalu mereview dan merapikan hasilnya
+- 🤖 Sedang mendalami **AI Agent**: tool use, function calling, MCP, dan workflow multi-langkah
+- 🤝 Terbuka untuk kolaborasi proyek, diskusi backend & AI, atau sekadar ngopi virtual ☕
+- 💬 Tanya saya soal: **Python, Node.js, FastAPI, SQL, dan dunia AI Agent**
 - ⚡ Motto: _"Learn in public, build in public."_
 
 ```python
 class Raihan:
-    role  = ["Software Engineer", "Data Analyst", "AI Explorer"]
-    focus = ["LLM", "Machine Learning", "Data Analytics"]
-    stack = ["Python", "SQL", "JavaScript", "React"]
+    role  = ["Backend Developer", "Vibe Coder", "AI Agent Builder"]
+    focus = ["API Design", "Vibe Coding", "AI Agents"]
+    stack = ["Python", "Node.js", "FastAPI", "PostgreSQL"]
 
     def say_hi(self):
         print("Ayo kolaborasi, siapa tahu kita bisa bikin sesuatu yang keren! 🚀")
@@ -122,6 +122,65 @@ class Raihan:
   </tr>
 </table>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ═════════════════ 4b. BACKEND DEVELOPER ═════════════════ -->
+<h2 align="center">⚙️ Backend Developer</h2>
+
+<p align="center"><i>Membangun "dapur" aplikasi: tidak terlihat, tapi menentukan semuanya</i></p>
+
+<div align="center">
+
+| Area | Yang Saya Kerjakan |
+|:-----|:-------------------|
+| 🔌 **API Design** | REST API yang bersih, versioning, validasi input, dan dokumentasi (OpenAPI/Swagger) |
+| 🗄️ **Database** | Desain skema, query SQL yang efisien, indexing, dan migrasi |
+| 🔐 **Auth & Security** | JWT, OAuth, hashing password, rate limiting, dan best practice keamanan |
+| 🐳 **Deployment** | Docker, environment config, CI/CD, dan logging/monitoring dasar |
+| 🧪 **Testing** | Unit test dan integration test supaya perubahan aman dirilis |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ═════════════════════ 4c. VIBE CODING ═════════════════════ -->
+<h2 align="center">🎧 Vibe Coding</h2>
+
+<p align="center"><i>Ngoding santai bareng AI: saya yang mengarahkan, AI yang membantu mengetik</i></p>
+
+- 💡 **Mulai dari ide** — jelaskan tujuan dengan bahasa sehari-hari, lalu iterasi bersama AI
+- 🧩 **Pecah jadi langkah kecil** — fitur dibangun bertahap supaya mudah dicek dan di-debug
+- 👀 **Selalu review** — kode dari AI tetap saya baca, uji, dan pahami sebelum dipakai
+- 🛡️ **Backend tetap disiplin** — validasi, keamanan, dan test tidak boleh dilewati walau ngoding santai
+- ⚡ **Hasilnya** — prototipe jadi lebih cepat, dan waktu lebih banyak untuk memikirkan arsitektur
+
+> _"Vibe coding bukan berarti asal jadi — tapi mempercepat dari ide ke produk, dengan tetap bertanggung jawab pada kualitasnya."_
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:00F5FF&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ═════════════════════ 4d. AI AGENT ═════════════════════ -->
+<h2 align="center">🤖 AI Agent</h2>
+
+<p align="center"><i>AI yang tidak hanya menjawab, tapi juga bertindak menyelesaikan tugas</i></p>
+
+<div align="center">
+
+| Konsep | Penjelasan Singkat |
+|:-------|:-------------------|
+| 🛠️ **Tool Use / Function Calling** | Agent memanggil fungsi atau API (database, pencarian, dll.) untuk mengerjakan tugas |
+| 🔗 **MCP (Model Context Protocol)** | Standar untuk menghubungkan agent dengan tools dan data eksternal |
+| 🧠 **Memory & Context** | Agent mengingat konteks percakapan dan pengetahuan lewat RAG/vector database |
+| 🔁 **Workflow Multi-langkah** | Agent merencanakan, bertindak, mengecek hasil, lalu mengulang sampai selesai |
+| 🛡️ **Guardrails** | Batasan keamanan dan konfirmasi manusia untuk aksi yang berisiko |
+
+</div>
+
+```text
+Tujuan  ──►  Rencana  ──►  Pakai Tool  ──►  Cek Hasil  ──►  Selesai
+                ▲                               │
+                └────────── ulangi jika perlu ──┘
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
 
@@ -214,7 +273,7 @@ class Raihan:
 <!-- ═══════════════════ 12. LET'S CONNECT ═══════════════════ -->
 <h2 align="center">🤝 Let's Connect</h2>
 
-<p align="center"><i>Punya ide, proyek, atau sekadar ingin ngobrol soal data & AI? Yuk terhubung!</i></p>
+<p align="center"><i>Punya ide, proyek, atau sekadar ingin ngobrol soal backend & AI Agent? Yuk terhubung!</i></p>
 
 <!-- GANTI: ubah semua yang berawalan "GANTI" dengan data kontak kamu -->
 <p align="center">
