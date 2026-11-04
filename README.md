@@ -1,301 +1,103 @@
-
 <!--
-  ╔═══════════════════════════════════════════════════════════════════╗
-  ║  GitHub Profile README — Raihan Zafran Syaddat                     ║
-  ║  Palet : Neon Cyan #00F5FF × Violet #A855F7 × Dark #0D1117         ║
-  ║  Username sudah terisi: Raihan-Zafran                              ║
-  ║  Tips  : tekan Ctrl+F lalu cari "GANTI" untuk menemukan semua      ║
-  ║          bagian yang masih perlu kamu isi (repo, kontak, dll).     ║
-  ╚═══════════════════════════════════════════════════════════════════╝
+  GitHub Profile README — Raihan Zafran Syaddat
+  Tips: tekan Ctrl+F lalu cari "GANTI" untuk menemukan bagian yang perlu diisi.
 -->
 
-<!-- ═════════════════════════ 1. HEADER ═════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:A855F7&height=250&section=header&text=Raihan%20Zafran%20Syaddat&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Vibe%20Coder%20%C2%B7%20AI%20Agent%20Builder&descSize=18&descAlignY=60" width="100%" alt="Header Raihan Zafran Syaddat" />
-</div>
-
-<!-- ═════════════════════ 2. TYPING SVG + WAVE ═════════════════════ -->
-<div align="center">
-  <a href="https://github.com/Raihan-Zafran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Backend+Developer+%E2%9A%99%EF%B8%8F;Vibe+Coding+with+AI+%F0%9F%8E%A7;AI+Agent+Builder+%F0%9F%A4%96;Membangun+API+yang+rapi+%26+scalable+%F0%9F%9A%80;Ide+jadi+produk+lebih+cepat+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
-
-<h3 align="center">
-  Halo, selamat datang di profil saya!
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="👋" />
-</h3>
-
-<!-- ═════════════ 11a. PROFILE VIEWS + BADGE STATUS ═════════════ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raihan-Zafran&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/Raihan-Zafran?tab=followers">
-    <img src="https://img.shields.io/github/followers/Raihan-Zafran?label=Followers&logo=github&logoColor=00F5FF&labelColor=1E1B4B&color=0891B2&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Raihan-Zafran?tab=repositories">
-    <img src="https://img.shields.io/badge/Open%20to-Collaboration-7C3AED?labelColor=1E1B4B&style=for-the-badge" alt="Open to collaboration" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
-
-<!-- ═════════════════════════ 3. ABOUT ME ═════════════════════════ -->
-<h2 align="center">🙋‍♂️ Tentang Saya</h2>
-
-Halo! Saya **Raihan Zafran Syaddat** 👋 — seorang **Backend Developer** yang suka **vibe coding** dan membangun **AI Agent**. Saya senang mengubah ide menjadi produk yang benar-benar bisa dipakai, dengan fondasi backend yang rapi dan bantuan AI. 🚀
-
-- ⚙️ Fokus sebagai **Backend Developer**: REST API, database, autentikasi, dan arsitektur yang scalable
-- 🎧 Penggemar **Vibe Coding**: membangun bareng AI dengan prompt, lalu mereview dan merapikan hasilnya
-- 🤖 Sedang mendalami **AI Agent**: tool use, function calling, MCP, dan workflow multi-langkah
-- 🤝 Terbuka untuk kolaborasi proyek, diskusi backend & AI, atau sekadar ngopi virtual ☕
-- 💬 Tanya saya soal: **Python, Node.js, FastAPI, SQL, dan dunia AI Agent**
-- ⚡ Motto: _"Learn in public, build in public."_
-
-```python
-class Raihan:
-    role  = ["Backend Developer", "Vibe Coder", "AI Agent Builder"]
-    focus = ["API Design", "Vibe Coding", "AI Agents"]
-    stack = ["Python", "Node.js", "FastAPI", "PostgreSQL"]
-
-    def say_hi(self):
-        print("Ayo kolaborasi, siapa tahu kita bisa bikin sesuatu yang keren! 🚀")
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:00F5FF&height=3&section=header" width="100%" alt="divider" />
-
-<!-- ═══════════════════════ 4. TECH STACK ═══════════════════════ -->
-<h2 align="center">🧰 Tech Stack</h2>
-
-<div align="center">
-<table>
-  <tr>
-    <td align="right"><b>💻 Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&logo=python&logoColor=00F5FF" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-1E1B4B?style=for-the-badge&logo=postgresql&logoColor=00F5FF" alt="SQL" />
-      <img src="https://img.shields.io/badge/JavaScript-1E1B4B?style=for-the-badge&logo=javascript&logoColor=00F5FF" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=for-the-badge&logo=typescript&logoColor=00F5FF" alt="TypeScript" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🧠 AI / ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-1E1B4B?style=for-the-badge&logo=tensorflow&logoColor=A855F7" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/Keras-1E1B4B?style=for-the-badge&logo=keras&logoColor=A855F7" alt="Keras" />
-      <img src="https://img.shields.io/badge/PyTorch-1E1B4B?style=for-the-badge&logo=pytorch&logoColor=A855F7" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/scikit--learn-1E1B4B?style=for-the-badge&logo=scikitlearn&logoColor=A855F7" alt="scikit-learn" />
-      <img src="https://img.shields.io/badge/Hugging_Face-1E1B4B?style=for-the-badge&logo=huggingface&logoColor=A855F7" alt="Hugging Face" />
-      <img src="https://img.shields.io/badge/LangChain-1E1B4B?style=for-the-badge&logo=langchain&logoColor=A855F7" alt="LangChain" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>📊 Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-1E1B4B?style=for-the-badge&logo=pandas&logoColor=00F5FF" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-1E1B4B?style=for-the-badge&logo=numpy&logoColor=00F5FF" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Plotly-1E1B4B?style=for-the-badge&logo=plotly&logoColor=00F5FF" alt="Plotly" />
-      <img src="https://img.shields.io/badge/MySQL-1E1B4B?style=for-the-badge&logo=mysql&logoColor=00F5FF" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Power_BI-1E1B4B?style=for-the-badge&logo=powerbi&logoColor=00F5FF" alt="Power BI" />
-      <img src="https://img.shields.io/badge/Tableau-1E1B4B?style=for-the-badge&logo=tableau&logoColor=00F5FF" alt="Tableau" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🌐 Backend / Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-1E1B4B?style=for-the-badge&logo=react&logoColor=A855F7" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-1E1B4B?style=for-the-badge&logo=nodedotjs&logoColor=A855F7" alt="Node.js" />
-      <img src="https://img.shields.io/badge/FastAPI-1E1B4B?style=for-the-badge&logo=fastapi&logoColor=A855F7" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-1E1B4B?style=for-the-badge&logo=tailwindcss&logoColor=A855F7" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/HTML5-1E1B4B?style=for-the-badge&logo=html5&logoColor=A855F7" alt="HTML5" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🛠️ Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-1E1B4B?style=for-the-badge&logo=git&logoColor=00F5FF" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Docker-1E1B4B?style=for-the-badge&logo=docker&logoColor=00F5FF" alt="Docker" />
-      <img src="https://img.shields.io/badge/Jupyter-1E1B4B?style=for-the-badge&logo=jupyter&logoColor=00F5FF" alt="Jupyter" />
-      <img src="https://img.shields.io/badge/Linux-1E1B4B?style=for-the-badge&logo=linux&logoColor=00F5FF" alt="Linux" />
-      <img src="https://img.shields.io/badge/Postman-1E1B4B?style=for-the-badge&logo=postman&logoColor=00F5FF" alt="Postman" />
-    </td>
-  </tr>
-</table>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
-
-<!-- ═════════════════ 4b. BACKEND DEVELOPER ═════════════════ -->
-<h2 align="center">⚙️ Backend Developer</h2>
-
-<p align="center"><i>Membangun "dapur" aplikasi: tidak terlihat, tapi menentukan semuanya</i></p>
-
 <div align="center">
 
-| Area | Yang Saya Kerjakan |
-|:-----|:-------------------|
-| 🔌 **API Design** | REST API yang bersih, versioning, validasi input, dan dokumentasi (OpenAPI/Swagger) |
-| 🗄️ **Database** | Desain skema, query SQL yang efisien, indexing, dan migrasi |
-| 🔐 **Auth & Security** | JWT, OAuth, hashing password, rate limiting, dan best practice keamanan |
-| 🐳 **Deployment** | Docker, environment config, CI/CD, dan logging/monitoring dasar |
-| 🧪 **Testing** | Unit test dan integration test supaya perubahan aman dirilis |
+# Raihan Zafran Syaddat
+
+### Backend Developer · AI Agent Builder
+
+Membangun backend yang andal, API yang rapi, dan sistem AI agent yang berguna di dunia nyata.
+
+<br />
+
+<a href="https://www.linkedin.com/in/GANTI-USERNAME-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:GANTI-EMAIL-KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://GANTI-PORTOFOLIO-KAMU.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=Raihan-Zafran&label=Profile%20Views&color=0D1117&style=flat-square" alt="Profile Views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
+---
 
-<!-- ═════════════════════ 4c. VIBE CODING ═════════════════════ -->
-<h2 align="center">🎧 Vibe Coding</h2>
+## Tentang Saya
 
-<p align="center"><i>Ngoding santai bareng AI: saya yang mengarahkan, AI yang membantu mengetik</i></p>
+Saya seorang **Backend Developer** yang fokus pada desain API, database, dan arsitektur layanan yang mudah dirawat. Saya juga membangun **AI agent** yang bisa memakai tools untuk menyelesaikan tugas nyata, dan memakai **vibe coding** (membangun bersama AI) untuk mempercepat dari ide ke produk, tanpa mengorbankan kualitas.
 
-- 💡 **Mulai dari ide** — jelaskan tujuan dengan bahasa sehari-hari, lalu iterasi bersama AI
-- 🧩 **Pecah jadi langkah kecil** — fitur dibangun bertahap supaya mudah dicek dan di-debug
-- 👀 **Selalu review** — kode dari AI tetap saya baca, uji, dan pahami sebelum dipakai
-- 🛡️ **Backend tetap disiplin** — validasi, keamanan, dan test tidak boleh dilewati walau ngoding santai
-- ⚡ **Hasilnya** — prototipe jadi lebih cepat, dan waktu lebih banyak untuk memikirkan arsitektur
+- Merancang REST API yang bersih, tervalidasi, dan terdokumentasi
+- Mendesain skema database dan query yang efisien
+- Membangun AI agent dengan tool use, function calling, dan MCP
+- Mengutamakan keamanan, testing, dan kemudahan perawatan kode
 
-> _"Vibe coding bukan berarti asal jadi — tapi mempercepat dari ide ke produk, dengan tetap bertanggung jawab pada kualitasnya."_
+## Keahlian
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:00F5FF&height=3&section=header" width="100%" alt="divider" />
+| Bidang | Teknologi |
+|:-------|:----------|
+| **Bahasa** | Python · JavaScript · TypeScript · SQL |
+| **Backend** | FastAPI · Node.js · REST API · Autentikasi (JWT/OAuth) |
+| **Database** | PostgreSQL · MySQL |
+| **AI & Agent** | LLM API · Tool Use / Function Calling · MCP · RAG · LangChain |
+| **DevOps & Tools** | Docker · Git · GitHub Actions · Linux · Postman |
 
-<!-- ═════════════════════ 4d. AI AGENT ═════════════════════ -->
-<h2 align="center">🤖 AI Agent</h2>
+<details>
+<summary><b>Lihat badge teknologi</b></summary>
+<br />
 
-<p align="center"><i>AI yang tidak hanya menjawab, tapi juga bertindak menyelesaikan tugas</i></p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 
-<div align="center">
+</details>
 
-| Konsep | Penjelasan Singkat |
-|:-------|:-------------------|
-| 🛠️ **Tool Use / Function Calling** | Agent memanggil fungsi atau API (database, pencarian, dll.) untuk mengerjakan tugas |
-| 🔗 **MCP (Model Context Protocol)** | Standar untuk menghubungkan agent dengan tools dan data eksternal |
-| 🧠 **Memory & Context** | Agent mengingat konteks percakapan dan pengetahuan lewat RAG/vector database |
-| 🔁 **Workflow Multi-langkah** | Agent merencanakan, bertindak, mengecek hasil, lalu mengulang sampai selesai |
-| 🛡️ **Guardrails** | Batasan keamanan dan konfirmasi manusia untuk aksi yang berisiko |
+## Cara Saya Bekerja
 
-</div>
+### Backend yang andal
+Saya membangun API dengan validasi input, penanganan error yang jelas, autentikasi, dan test otomatis. Layanan harus mudah dipahami, diuji, dan dirilis dengan aman.
+
+### Vibe coding yang bertanggung jawab
+Saya memakai AI untuk mempercepat pengembangan: menjabarkan ide, membuat kerangka kode, dan iterasi cepat. Setiap hasil tetap saya review, uji, dan pahami sebelum dipakai. Kecepatan datang dari AI, tanggung jawab tetap di saya.
+
+### AI agent yang berguna
+Saya membangun agent yang tidak hanya menjawab, tetapi juga bertindak: merencanakan langkah, memanggil tools atau API, memeriksa hasilnya, lalu mengulang bila perlu. Aksi berisiko selalu dipagari dengan guardrails dan konfirmasi manusia.
 
 ```text
-Tujuan  ──►  Rencana  ──►  Pakai Tool  ──►  Cek Hasil  ──►  Selesai
-                ▲                               │
-                └────────── ulangi jika perlu ──┘
+Tujuan ─► Rencana ─► Pakai Tool ─► Cek Hasil ─► Selesai
+             ▲                         │
+             └──── ulangi jika perlu ──┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
+## Proyek Pilihan
 
-<!-- ═════════════════════ 5. AI EXPLORATION ═════════════════════ -->
-<h2 align="center">🤖 AI Exploration</h2>
+<!-- GANTI: isi dengan proyek asli kamu. Hapus bagian ini jika belum ada. -->
 
-<p align="center"><i>Topik-topik yang sedang saya pelajari dan eksperimenkan saat ini</i></p>
+| Proyek | Deskripsi | Teknologi |
+|:-------|:----------|:----------|
+| **GANTI-NAMA-PROYEK-1** | GANTI: satu kalimat tentang masalah yang diselesaikan | Python · FastAPI · PostgreSQL |
+| **GANTI-NAMA-PROYEK-2** | GANTI: satu kalimat tentang hasil atau dampaknya | Node.js · Docker |
+| **GANTI-NAMA-PROYEK-3** | GANTI: satu kalimat tentang AI agent yang dibangun | Python · LLM · MCP |
+
+## Statistik GitHub
 
 <div align="center">
-
-| Topik | Yang Sedang Saya Eksplor | Status |
-|:------|:-------------------------|:------:|
-| 🧠 **LLM** | Cara kerja model bahasa, evaluasi output, dan pemakaian API | 🔥 Aktif |
-| ✍️ **Prompt Engineering** | Few-shot, chain-of-thought, dan structured output | 🔥 Aktif |
-| 📚 **RAG** | Embedding, chunking, vector database, dan retrieval | 🔥 Aktif |
-| 🤖 **AI Agents** | Tool use, function calling, dan workflow multi-langkah | 🌱 Belajar |
-| 🔧 **Fine-tuning & Evaluasi** | Kurasi dataset, LoRA, dan benchmarking model | 🌱 Belajar |
-| 📈 **ML & Deep Learning** | scikit-learn, TensorFlow, dan evaluasi model | 🔥 Aktif |
-| 🧪 **AI untuk Data Analytics** | NL-to-SQL, otomasi insight, dan dashboard cerdas | 🧪 Eksperimen |
-| 🚢 **MLOps & Deployment** | Docker, serving model lewat API, dan monitoring | 🌱 Belajar |
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raihan-Zafran&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan-Zafran&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Aktif-sedang_intens-00F5FF?labelColor=1E1B4B&style=flat-square" alt="Aktif" />
-  <img src="https://img.shields.io/badge/🌱_Belajar-pelan_tapi_pasti-A855F7?labelColor=1E1B4B&style=flat-square" alt="Belajar" />
-  <img src="https://img.shields.io/badge/🧪_Eksperimen-coba--coba-7C3AED?labelColor=1E1B4B&style=flat-square" alt="Eksperimen" />
-</p>
+## Terhubung
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:00F5FF&height=3&section=header" width="100%" alt="divider" />
-
-<!-- ═════════════ 6. GITHUB STATS (github-readme-stats) ═════════════ -->
-<h2 align="center">📈 GitHub Stats</h2>
+Terbuka untuk kolaborasi, peluang kerja, dan diskusi seputar backend dan AI agent. Silakan hubungi lewat tautan di bagian atas profil ini.
 
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Raihan-Zafran&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&border_radius=12&bg_color=0D1117&title_color=00F5FF&icon_color=A855F7&text_color=E6EDF3&border_color=2D1B4E&ring_color=00F5FF" alt="GitHub Stats" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan-Zafran&layout=compact&langs_count=8&hide_border=false&border_radius=12&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&border_color=2D1B4E" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Raihan-Zafran&theme=dark&background=0D1117&border=2D1B4E&stroke=2D1B4E&ring=00F5FF&fire=A855F7&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00F5FF&sideLabels=A855F7&dates=8B949E&border_radius=12&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<!-- ═══════════════════ 7. ACTIVITY GRAPH ═══════════════════ -->
-<h2 align="center">⚡ Activity Graph</h2>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raihan-Zafran&bg_color=0D1117&color=00F5FF&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&radius=12&custom_title=Grafik%20Aktivitas%20Kontribusi" alt="Contribution Activity Graph" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
-
-<!-- ═════════════ 8 & 9. SNAKE + PAC-MAN (GitHub Actions) ═════════════ -->
-<h2 align="center">🐍 Snake & 👻 Pac-Man Memakan Kontribusi Saya</h2>
-
-<p align="center"><i>Dibuat otomatis dari contribution graph lewat GitHub Actions</i></p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raihan-Zafran/Raihan-Zafran/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raihan-Zafran/Raihan-Zafran/output/github-snake.svg" />
-    <img alt="Snake animation dari contribution graph" src="https://raw.githubusercontent.com/Raihan-Zafran/Raihan-Zafran/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raihan-Zafran/Raihan-Zafran/output-pacman/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raihan-Zafran/Raihan-Zafran/output-pacman/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man animation dari contribution graph" src="https://raw.githubusercontent.com/Raihan-Zafran/Raihan-Zafran/output-pacman/pacman-contribution-graph-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:00F5FF&height=3&section=header" width="100%" alt="divider" />
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:A855F7&height=3&section=header" width="100%" alt="divider" />
-
-<!-- ═══════════════ 11b. QUOTE & JOKE DEV ACAK ═══════════════ -->
-<h2 align="center">💬 Quote & Joke Dev Acak</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&quote_color=E6EDF3&author_color=00F5FF&border_color=2D1B4E" alt="Random quote" />
-  <br /><br />
-  <img src="https://readme-jokes.vercel.app/api?bgColor=0D1117&qColor=00F5FF&aColor=A855F7&textColor=E6EDF3&borderColor=2D1B4E" alt="Random dev joke" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:00F5FF&height=3&section=header" width="100%" alt="divider" />
-
-<!-- ═══════════════════ 12. LET'S CONNECT ═══════════════════ -->
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center"><i>Punya ide, proyek, atau sekadar ingin ngobrol soal backend & AI Agent? Yuk terhubung!</i></p>
-
-<!-- GANTI: ubah semua yang berawalan "GANTI" dengan data kontak kamu -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/GANTI-USERNAME-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:GANTI-EMAIL-KAMU@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email" />
-  </a>
-  <a href="https://GANTI-PORTOFOLIO-KAMU.com">
-    <img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=00F5FF" alt="Portfolio" />
-  </a>
-  <a href="https://www.instagram.com/GANTI-USERNAME-IG">
-    <img src="https://img.shields.io/badge/Instagram-1E1B4B?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Terima kasih sudah mampir! Kalau ada repo yang bermanfaat, jangan lupa kasih ⭐ ya."</i> 💜
-</p>
-
-<!-- ═════════════════════════ 13. FOOTER ═════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:00F5FF&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" width="100%" alt="Footer" />
+  <sub>Learn in public, build in public.</sub>
 </div>
